@@ -36,7 +36,7 @@ Benefícios:
 
 Aqui estão citadas algumas das principais tecnologias que estão sendo utilizadas para o desenvolvimento desse projeto, caso deseje ter uma visão mais completa sobre o projeto, acesse a  <a href="https://github.com/FalaFatec/AMS-ADS-GR-4-DOC/tree/main/documents"><strong>documentação do projeto »</strong></a>
 
-* [Java][Java.com]
+* ![Java][Java.com]
 * [![Json][Json.com]][Json-url]
 * [![PostgreSQL][Postgre.com]][Postgre-url]
 * [![Spring][Spring.com]][Spring-url]
