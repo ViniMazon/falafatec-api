@@ -40,7 +40,10 @@ Aqui estão citadas algumas das principais tecnologias que estão sendo utilizad
 * [![Json][Json.com]][Json-url]
 * [![PostgreSQL][Postgre.com]][Postgre-url]
 * [![Spring][Spring.com]][Spring-url]
+* ![Docker][Docker.com]
+* ![Tomcat][Tomcat.com]
 * [![Postman][Postman.com]][Postman-url]
+* ![Heroku][Heroku.com]
 * [![IntelliJ][IntelliJ.com]][IntelliJ-url]
 
 <br>
@@ -87,3 +90,6 @@ LinkedIn - https://www.linkedin.com/in/viniciusmazonviturino/
 [VisualStudioCode-url]: https://code.visualstudio.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Java.com]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[Docker.com]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Tomcat.com]: https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black
+[Heroku.com]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white
