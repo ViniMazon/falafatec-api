@@ -15,9 +15,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-<div align="center">
-<img src="assets/tela.png" alt="Logo">
-</div>
 <br>
 Necessidade:
 A ideia do projeto surgiu com a análise e experiência vivida dentro da FATEC São Caetano, onde foi possível observar a necessidade de um canal de comunicação mais prático, e a falta de conexão entre a comunidade da faculdade.
